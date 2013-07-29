@@ -1,5 +1,9 @@
 P2P transfer
 
+https://github.com/marcoandredinis/
+https://github.com/rivfaria
+https://github.com/jpedromiranda
+
 Start server
 Set ip on clients (server.cnf)
 Start clients
